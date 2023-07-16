@@ -1,0 +1,12 @@
+build
+.gradle
+bin
+run
+logs
+lib
+.settings
+.vscode
+.lnk
+.rar
+generated
+libs
